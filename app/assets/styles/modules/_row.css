@@ -54,4 +54,12 @@
             width: 63%;
         }
     }
+
+   
+        &__medium-6{
+            float: left;
+            width: 100%;
+
+        }
+    
 }
