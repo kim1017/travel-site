@@ -16,7 +16,10 @@
     }
 
     &--gutters-large > div{
-        padding-right: 100px;
+
+        @mixin atSmall{
+            padding-right: 100px;
+        }
         
     }
 

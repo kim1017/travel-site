@@ -13,12 +13,15 @@
 
     &__icon{
         display: block;
-        margin: 0 auto;
+        margin-left: auto;
+        margin-right: auto;
         margin-bottom: .6rem;
 
         @mixin atSmall{
-            margin: 0 .5rem 0 0;
+            margin-right: .5rem;
+            margin-left: 0;
             display: inline-block;
+            margin-bottom: 0;
         }
     }
 
