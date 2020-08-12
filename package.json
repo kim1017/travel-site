@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "normalize.css": "^8.0.1",
-    "serialize-javascript": "^2.1.2"
+    "serialize-javascript": "^3.1.0"
   },
   "devDependencies": {
     "autoprefixer": "^9.6.5",
